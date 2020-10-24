@@ -1,0 +1,13 @@
+Thanks to:
+TFS (which goes without saying)
+Often, SB Tech, cH, PZ and all of the other people who have worked on CustomTF's CodeRod May for rewriting the menu code to show you what you have
+Blog for making CuTF maps and adding code to bring CuTF into TF 2.9 complaince
+Cts.net for physically hosting the quake server
+Atrocity[CE] for adminstering the server and having endless patience
+Daedalus for being a cool roommate
+TacoBell
+WhippingBoy[DP] for hosting Runway's server
+Everyone else in CE
+Chang Sung Fung & Chow Yun fat for being the most dedicated players
+Target for suggesting an acceptable bounty system
+--Warrior-- for making the tesla sentry model
